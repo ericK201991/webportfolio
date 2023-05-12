@@ -1,0 +1,18 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    color: #336589;
+}
+body {
+        background-image: url(./sample.jpg);
+        background-size: cover;
+        background-position: center;
+
+}
+.navbar-nav .nav-link {
+    color: black;
+}
+
+.gallery-img{
+    height: 300px;
+    width: 400px;
+}
