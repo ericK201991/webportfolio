@@ -12,7 +12,14 @@ body {
     color: black;
 }
 
-.gallery-img{
-    height: 300px;
-    width: 400px;
+.card-aboutme {
+    width: 18rem;
+    height: 400px;
+}
+
+.card-projects {
+    width: 40rem;
+}
+h1 {
+    color: #336589;
 }
